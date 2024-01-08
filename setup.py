@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/Library/Frameworks/Python.framework/Versions/2.7/bin/python
 # coding=utf-8
 """****************************************************************************
 Copyright (c) 2014 cocos2d-x.org
