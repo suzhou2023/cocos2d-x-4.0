@@ -55,7 +55,7 @@ THE SOFTWARE.
 // #define CC_PLATFORM_WINRT             13
 
 // Determine target platform by compile environment macro.
-#define CC_TARGET_PLATFORM             CC_PLATFORM_UNKNOWN
+#define CC_TARGET_PLATFORM             CC_PLATFORM_ANDROID
 
 // Apple: Mac and iOS
 #if defined(__APPLE__) && !defined(ANDROID) // exclude android for binding generator.
